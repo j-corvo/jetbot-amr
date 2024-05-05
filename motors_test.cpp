@@ -1,6 +1,6 @@
 #include <thread>
 #include <chrono>
-#include "adafruit-motor-hat-cpp-library/source/adafruitmotorhat.h"
+#include "motor_driver/source/adafruitmotorhat.h"
 
 int main()
 {
