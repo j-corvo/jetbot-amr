@@ -1,0 +1,3 @@
+[submodule "motor_driver"]
+	path = motor_driver
+	url = https://github.com/tomfclarke/adafruit-motor-hat-cpp-library.git
