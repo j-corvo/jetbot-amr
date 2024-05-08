@@ -1,12 +1,10 @@
 # JetBot
 
-<!--[<img src="https://img.shields.io/discord/553852754058280961.svg">](https://discord.gg/Ady6NtF) -->
+JetBot is an open-source robot based on NVIDIA Jetson Nano.
 
 > [Waveshare JetBot Kit](https://jetbot.org/master/third_party_kits.html)!
 
-*********JETBOT IMAGE************
-
-JetBot is an open-source robot based on NVIDIA Jetson Nano.
+<img src="https://github.com/j-corvo/jetbot-amr-ros2/blob/readme-updates/images/jetbot_img.jpg" height="256">
 
 Documentation availaible in [JetBot documentation](https://jetbot.org).
 
