@@ -8,7 +8,7 @@ JetBot is an open-source robot based on NVIDIA Jetson Nano.
 
 Documentation availaible in [JetBot documentation](https://jetbot.org).
 
-## Intructions
+## Instructions
 
 Pull submodules
 
